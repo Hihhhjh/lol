@@ -1,18 +1,18 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
+  "displayName": "Test Plugin",
+  "name": "homebridge-test",
   "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "description": "Test.",
   "license": "ISC",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "type": "json",
+    "url": "https://github.com/Hihhhjih/config.json"
   },
   "bugs": {
     "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
   },
-  "author": "Andreas Bauer <mail@anderl-bauer.de>",
+  "author": "hi <mail@anderl-bauer.de>",
   "engines": {
     "node": "^18.17.0",
     "homebridge": "^1.6.0"
@@ -25,7 +25,7 @@
     "prepublishOnly": "npm run lint && npm run build"
   },
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-test"
   ],
   "dependencies": {
     "ip": "^1.1.8"
