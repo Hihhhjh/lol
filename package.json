@@ -1,7 +1,7 @@
 {
   "private": true,
   "displayName": "Test Plugin",
-  "name": "homebridge-test",
+  "name": "homebridge-test-alpha-october1",
   "version": "1.0.0",
   "description": "Test.",
   "license": "ISC",
@@ -25,7 +25,7 @@
     "prepublishOnly": "npm run lint && npm run build"
   },
   "keywords": [
-    "homebridge-test"
+    "homebridge-test-hi"
   ],
   "dependencies": {
     "ip": "^1.1.8"
