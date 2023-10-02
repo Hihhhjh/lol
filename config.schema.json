@@ -3,10 +3,10 @@
   "pluginType": "platform",
   "singular": true,
   "schema": {
-    "type": "object",
+    "type": "homepod",
     "properties": {
       "name": {
-        "title": "hi.",
+        "title": "hi",
         "type": "string",
         "required": true,
         "default": "Example Dynamic Platform"
